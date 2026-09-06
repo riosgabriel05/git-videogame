@@ -32,6 +32,12 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 <!-- Agregar descripción del género y link a Wikipedia -->
 
+Los videojuegos de puzzle son juegos centrados en la resolución de problemas, desafíos lógicos y acertijos. Suelen requerir razonamiento, planificación y reconocimiento de patrones para avanzar.
+
+[Fuente: Wikipedia](https://es.wikipedia.org/wiki/Videojuego_de_rompecabezas)
+
+- [Tetris](./puzzle/tetris.md)
+
 - Tetris
 
 ## Sandbox
